@@ -5,7 +5,7 @@ setup(
     version='0.1.0',
     description='A simple scholarship finder that utilizes web scraping and web automation to retrieve a list of urls to scholarships with desired keywords and criteria',
     author='Xander Kutulas, Nathon whose last name I dont know lol',
-    author_email='myEmail, nathans email',
+    author_email='Xander.Kutulas@gmail.com, nathans email',
     url='https://github.com/xanmankey/scholarship_finder.git',
     packages=find_packages(),
 )
